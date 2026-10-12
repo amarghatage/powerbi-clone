@@ -260,7 +260,7 @@ export default function App() {
         <div className="flex items-center space-x-3">
           <div className="p-2 bg-indigo-600 rounded-lg text-white font-bold flex items-center shadow-indigo-500/20 shadow-md">
             <LayoutDashboard size={20} className="mr-2" />
-            <span className="tracking-wide">PowerBI Studio</span>
+            <span className="tracking-wide">StrongBI Studio</span>
           </div>
           <div className="h-5 w-px bg-slate-700/50 mx-1"></div>
           <span className="text-xs px-2.5 py-1 rounded-full bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 font-medium flex items-center">
